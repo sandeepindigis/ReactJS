@@ -1,0 +1,33 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This is starting of React Native ",
+  "keywords": [],
+  "homepage": "https://github.com/sandeepindigis/ReactJS#readme",
+  "bugs": {
+    "url": "https://github.com/sandeepindigis/ReactJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepindigis/ReactJS.git"
+  },
+  "license": "ISC",
+  "author": "Sandeep Sharma",
+  "type": "commonjs",
+ 
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
