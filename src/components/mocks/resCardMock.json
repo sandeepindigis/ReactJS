@@ -1,0 +1,76 @@
+{
+    "id": "155985",
+    "name": "Domino's Pizza",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/13/ac98db09-554d-4ffa-a772-9e29d08f4b5c_155985.JPG",
+    "locality": "Hargur Tower Road",
+    "areaName": "Haldwani Locality",
+    "costForTwo": "₹99 for two",
+    "cuisines": [
+        "Pizzas",
+        "Italian",
+        "Pastas",
+        "Desserts"
+    ],
+    "avgRating": 4.5,
+    "parentId": "2456",
+    "avgRatingString": "4.5",
+    "totalRatingsString": "2.6K+",
+    "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 0.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "0.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2025-05-21 23:59:00",
+        "opened": true
+    },
+    "badges": {
+        "imageBadges": [
+            {
+                "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                "description": "bolt!"
+            }
+        ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {
+                "badgeObject": [
+                    {
+                        "attributes": {
+                            "description": "bolt!",
+                            "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                        }
+                    }
+                ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹119"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+        "aggregatedRating": {
+            "rating": "--"
+        }
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+}

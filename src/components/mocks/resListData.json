@@ -1,0 +1,1704 @@
+[
+    {
+        "info": {
+            "id": "155985",
+            "name": "Domino's Pizza",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/13/ac98db09-554d-4ffa-a772-9e29d08f4b5c_155985.JPG",
+            "locality": "Hargur Tower Road",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹99 for two",
+            "cuisines": [
+                "Pizzas",
+                "Italian",
+                "Pastas",
+                "Desserts"
+            ],
+            "avgRating": 4.5,
+            "parentId": "2456",
+            "avgRatingString": "4.5",
+            "totalRatingsString": "2.6K+",
+            "sla": {
+                "deliveryTime": 25,
+                "lastMileTravel": 0.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "0.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                        "description": "bolt!"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹75"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/dominos-pizza-hargur-tower-road-haldwani-locality-rest155985",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "387406",
+            "name": "Burger King",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/3/24/205e7c9a-ccf0-4d6b-8357-56394a91f7be_387406.jpg",
+            "locality": "Walkway Mall",
+            "areaName": "Haldwani City",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "Burgers",
+                "American"
+            ],
+            "avgRating": 4.4,
+            "parentId": "166",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "7.0K+",
+            "sla": {
+                "deliveryTime": 18,
+                "lastMileTravel": 2.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "lastMileTravelString": "2.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/burger-king-walkway-mall-haldwani-city-rest387406",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "148023",
+            "name": "Pizza Hut",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/9/b7384005-4408-42f2-9035-c6f8880d2a2d_148023.jpg",
+            "locality": "Thapa Colony",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "Pizzas",
+                "Desserts",
+                "Beverages",
+                "Snacks"
+            ],
+            "avgRating": 4.1,
+            "parentId": "721",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "2.1K+",
+            "sla": {
+                "deliveryTime": 24,
+                "lastMileTravel": 2.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "2.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹79"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/pizza-hut-thapa-colony-haldwani-locality-rest148023",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "321585",
+            "name": "Kwality Walls Ice Cream and More",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/682f4b20-46b3-4085-b5ac-333022a55ca9_321585.JPG",
+            "locality": "Ranipur",
+            "areaName": "Thapa Colony",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "Ice Cream",
+                "Desserts"
+            ],
+            "avgRating": 4.7,
+            "veg": true,
+            "parentId": "582",
+            "avgRatingString": "4.7",
+            "totalRatingsString": "880",
+            "sla": {
+                "deliveryTime": 12,
+                "lastMileTravel": 1,
+                "serviceability": "SERVICEABLE",
+                "slaString": "10-15 mins",
+                "lastMileTravelString": "1.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 20:40:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                        "description": "bolt!"
+                    },
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/kwality-walls-ice-cream-and-more-ranipur-thapa-colony-rest321585",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "759805",
+            "name": "NIC Ice Creams",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/22/41e3cebd-67b8-44a8-b65f-72b2ccb421e8_759805.jpg",
+            "locality": "Nainital",
+            "areaName": "Arunodaya Dharamshala",
+            "costForTwo": "₹120 for two",
+            "cuisines": [
+                "Ice Cream",
+                "Desserts"
+            ],
+            "avgRating": 4.6,
+            "veg": true,
+            "parentId": "6249",
+            "avgRatingString": "4.6",
+            "totalRatingsString": "580",
+            "sla": {
+                "deliveryTime": 17,
+                "lastMileTravel": 1.2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "lastMileTravelString": "1.2 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                        "description": "bolt!"
+                    },
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹166 OFF",
+                "subHeader": "ABOVE ₹499",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 12
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/nic-ice-creams-nainital-arunodaya-dharamshala-rest759805",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "759806",
+            "name": "Grameen Kulfi",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/caa01b5a-2051-40b1-96d8-f5790a06f3ef_759806.jpg",
+            "locality": "Nainital",
+            "areaName": "Arunodaya Dharamshala",
+            "costForTwo": "₹120 for two",
+            "cuisines": [
+                "Ice Cream",
+                "Desserts"
+            ],
+            "avgRating": 4.8,
+            "veg": true,
+            "parentId": "12175",
+            "avgRatingString": "4.8",
+            "totalRatingsString": "215",
+            "sla": {
+                "deliveryTime": 16,
+                "lastMileTravel": 1.2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "lastMileTravelString": "1.2 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                        "description": "bolt!"
+                    },
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹80"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/grameen-kulfi-nainital-arunodaya-dharamshala-rest759806",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "861519",
+            "name": "Pastas By Pizza Hut",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/5793d170-8756-4fd0-850f-523e9f99b439_861519.jpg",
+            "locality": "Thapa Colony",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Pastas"
+            ],
+            "avgRating": 3.8,
+            "parentId": "306806",
+            "avgRatingString": "3.8",
+            "totalRatingsString": "40",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 2.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "2.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "40% OFF",
+                "subHeader": "UPTO ₹80"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/pastas-by-pizza-hut-thapa-colony-haldwani-locality-rest861519",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "601119",
+            "name": "Gourmet Ice Cream Cakes by Baskin Robbins",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/b8bf9013-ef36-44ab-88c2-2f019927dc52_601119.JPG",
+            "locality": "Walkway Mall",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "Ice Cream Cakes",
+                "Desserts",
+                "Ice Cream",
+                "Bakery"
+            ],
+            "avgRating": 4,
+            "veg": true,
+            "parentId": "21932",
+            "avgRatingString": "4.0",
+            "totalRatingsString": "3",
+            "sla": {
+                "deliveryTime": 18,
+                "lastMileTravel": 2.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "lastMileTravelString": "2.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹66 OFF",
+                "subHeader": "ABOVE ₹249",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 12
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "4.1",
+                    "ratingCount": "80"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/gourmet-ice-cream-cakes-by-baskin-robbins-walkway-mall-haldwani-locality-rest601119",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "601118",
+            "name": "Baskin Robbins - Ice Cream Desserts",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/24/3283bc4d-7681-4308-98c9-975b51a3724a_601118.JPG",
+            "locality": "Walk Way Mall",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "Desserts",
+                "Ice Cream"
+            ],
+            "avgRating": 3.8,
+            "veg": true,
+            "parentId": "5588",
+            "avgRatingString": "3.8",
+            "totalRatingsString": "107",
+            "sla": {
+                "deliveryTime": 22,
+                "lastMileTravel": 2.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "2.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹66 OFF",
+                "subHeader": "ABOVE ₹249",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 12
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/baskin-robbins-ice-cream-desserts-walk-way-mall-haldwani-locality-rest601118",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "243258",
+            "name": "Bikanervala",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/20/a3de5f0a-675c-458a-bc9c-850382266b81_243258.jpg",
+            "locality": "Saras Market Road",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "Chinese",
+                "North Indian",
+                "Snacks",
+                "Street Food",
+                "Sweets"
+            ],
+            "avgRating": 4.3,
+            "veg": true,
+            "parentId": "45936",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "2.1K+",
+            "sla": {
+                "deliveryTime": 17,
+                "lastMileTravel": 1.1,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "lastMileTravelString": "1.1 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 22:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                        "description": "bolt!"
+                    },
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/bikanervala-saras-market-road-haldwani-locality-rest243258",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "489981",
+            "name": "La Pino'z Pizza",
+            "cloudinaryImageId": "tpieyesjh9qpoa2lv0g2",
+            "locality": "Nainital Road",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "Pizzas",
+                "Pastas",
+                "Italian",
+                "Desserts",
+                "Beverages"
+            ],
+            "avgRating": 4.4,
+            "parentId": "4961",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "4.2K+",
+            "sla": {
+                "deliveryTime": 16,
+                "lastMileTravel": 0.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "lastMileTravelString": "0.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20RX%20listing%2018px.png",
+                        "description": "bolt!"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20RX%20listing%2018px.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹125 OFF",
+                "subHeader": "ABOVE ₹349",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/la-pinoz-pizza-nainital-road-haldwani-locality-rest489981",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "168083",
+            "name": "KFC",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/3c3ca170-a27c-414b-acc0-8c8531072033_168083.JPG",
+            "locality": "Thapa Colony",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹99 for two",
+            "cuisines": [
+                "Burgers",
+                "Fast Food",
+                "Rolls & Wraps"
+            ],
+            "avgRating": 4.2,
+            "parentId": "547",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "2.5K+",
+            "sla": {
+                "deliveryTime": 15,
+                "lastMileTravel": 2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "10-15 mins",
+                "lastMileTravelString": "2.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                        "description": "bolt!"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹179"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/kfc-thapa-colony-haldwani-locality-rest168083",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "654486",
+            "name": "Rollsking",
+            "cloudinaryImageId": "bd9f6ecc9245080c1a3b654e22b6789f",
+            "locality": "Nainital Road",
+            "areaName": "Haldwani City",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "Fast Food",
+                "Rolls & Wraps",
+                "North Indian",
+                "Snacks"
+            ],
+            "avgRating": 4.3,
+            "parentId": "4697",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "534",
+            "sla": {
+                "deliveryTime": 12,
+                "lastMileTravel": 0.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "10-15 mins",
+                "lastMileTravelString": "0.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20RX%20listing%2018px.png",
+                        "description": "bolt!"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20RX%20listing%2018px.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "10% OFF",
+                "subHeader": "UPTO ₹40"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/rollsking-nainital-road-haldwani-city-rest654486",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "527687",
+            "name": "Subway",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/21/cb70f8a3-90ef-4909-b3c3-1e294b0a82e4_527687.JPG",
+            "locality": "Nainital Road",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "sandwich",
+                "Salads",
+                "wrap",
+                "Healthy Food"
+            ],
+            "avgRating": 4.1,
+            "parentId": "2",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "511",
+            "sla": {
+                "deliveryTime": 29,
+                "lastMileTravel": 2.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "2.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/subway-nainital-road-haldwani-locality-rest527687",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "738331",
+            "name": "The Belgian Waffle Co.",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/17/89c36b15-7427-4141-8d6c-bdaf60b027f9_738331.JPG",
+            "locality": "NAINITAL",
+            "areaName": "DAMUADUNGA BANDOBAS",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "Waffle",
+                "Desserts",
+                "Ice Cream",
+                "Beverages"
+            ],
+            "avgRating": 4.7,
+            "veg": true,
+            "parentId": "2233",
+            "avgRatingString": "4.7",
+            "totalRatingsString": "360",
+            "sla": {
+                "deliveryTime": 24,
+                "lastMileTravel": 2.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "2.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/the-belgian-waffle-co-nainital-damuadunga-bandobas-rest738331",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "645440",
+            "name": "Shri Guru Kripa Bhojnalaya",
+            "cloudinaryImageId": "f2036ffdbe75667c6a9445733924fda9",
+            "locality": "Station Road",
+            "areaName": "Bus Stand",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "Fast Food"
+            ],
+            "avgRating": 4.2,
+            "parentId": "255314",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "3.3K+",
+            "sla": {
+                "deliveryTime": 13,
+                "lastMileTravel": 0.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "10-15 mins",
+                "lastMileTravelString": "0.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20RX%20listing%2018px.png",
+                        "description": "bolt!"
+                    },
+                    {
+                        "imageId": "Ratnesh_Badges/Rx_Awards_2025/_Milestone%20Restaurants.png",
+                        "description": "Delivery!"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20RX%20listing%2018px.png"
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "Delivery!",
+                                    "imageId": "Ratnesh_Badges/Rx_Awards_2025/_Milestone%20Restaurants.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹166 OFF",
+                "subHeader": "ABOVE ₹449",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 12
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/shri-guru-kripa-bhojnalaya-station-road-bus-stand-rest645440",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "461955",
+            "name": "Dp's Nanak Sweets & Restaurant",
+            "cloudinaryImageId": "ch3dc8vsiesxeaa2ufic",
+            "locality": "Padmawati Tower Road",
+            "areaName": "Nainital Road",
+            "costForTwo": "₹450 for two",
+            "cuisines": [
+                "Sweets"
+            ],
+            "avgRating": 4.4,
+            "veg": true,
+            "parentId": "472171",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "789",
+            "sla": {
+                "deliveryTime": 17,
+                "lastMileTravel": 0.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "lastMileTravelString": "0.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20RX%20listing%2018px.png",
+                        "description": "bolt!"
+                    },
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20RX%20listing%2018px.png"
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹166 OFF",
+                "subHeader": "ABOVE ₹449",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 12
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/dps-nanak-sweets-and-restaurant-padmawati-tower-road-nainital-road-rest461955",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "401557",
+            "name": "Standard Sweets House",
+            "cloudinaryImageId": "qzpehanz21txewbkl5os",
+            "locality": "Rampur Road",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "Sweets"
+            ],
+            "avgRating": 4.4,
+            "veg": true,
+            "parentId": "256232",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "3.8K+",
+            "sla": {
+                "deliveryTime": 17,
+                "lastMileTravel": 1.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "15-20 mins",
+                "lastMileTravelString": "1.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 22:15:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                        "description": "bolt!"
+                    },
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹166 OFF",
+                "subHeader": "ABOVE ₹449",
+                "discountTag": "FLAT DEAL",
+                "headerTypeV2": 12
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/standard-sweets-house-rampur-road-haldwani-locality-rest401557",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "478190",
+            "name": "Snacks",
+            "cloudinaryImageId": "k8702rclndsf3dpskeo8",
+            "locality": "Shakhawat Ganj",
+            "areaName": "Near Sdm Court",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+                "North Indian"
+            ],
+            "avgRating": 4.4,
+            "parentId": "287277",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "1.0K+",
+            "sla": {
+                "deliveryTime": 13,
+                "lastMileTravel": 0.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "10-15 mins",
+                "lastMileTravelString": "0.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20RX%20listing%2018px.png",
+                        "description": "bolt!"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20RX%20listing%2018px.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹75 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/snacks-shakhawat-ganj-near-sdm-court-rest478190",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "329417",
+            "name": "Italian Pizza & Mocktail Bar",
+            "cloudinaryImageId": "z64uaibq0elfmtk5ir7e",
+            "locality": "Mukhani Chouraha",
+            "areaName": "Haldwani Locality",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "Pizzas",
+                "Italian",
+                "Burgers"
+            ],
+            "avgRating": 4.1,
+            "parentId": "107585",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "1.6K+",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 1.9,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "1.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2025-05-22 22:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+                        "description": "bolt!"
+                    },
+                    {
+                        "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                        "description": "Delivery!"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "Delivery!",
+                                    "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-368d80d8-8d5a-4da1-be36-6b5cf3966d36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/haldwani/italian-pizza-and-mocktail-bar-mukhani-chouraha-haldwani-locality-rest329417",
+            "type": "WEBLINK"
+        }
+    }
+]
